@@ -15,14 +15,14 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+tumblr: "https://www.tumblr.com/blog/macbroadcast"
+pinterest: "https://de.pinterest.com/macbroadcast/"
+instagram: "https://www.instagram.com/macbroadcast/"
+twitter: "https://twitter.com/macbroadcast"
+facebook: "https://www.facebook.com/macbroadcast"
+youtube: "https://www.youtube.com/user/macbroadcast"
+vimeo: "https://vimeo.com/user6585408"
+soundcloud: "https://soundcloud.com/opencu"
 
 encoding: utf-8
 defaults:
