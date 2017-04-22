@@ -23,6 +23,9 @@ facebook: "https://www.facebook.com/macbroadcast"
 youtube: "https://www.youtube.com/user/macbroadcast"
 vimeo: "https://vimeo.com/user6585408"
 soundcloud: "https://soundcloud.com/opencu"
+# Google services
+google_analytics: UA—XXXXXXXX-X
+
 
 encoding: utf-8
 defaults:
