@@ -16,7 +16,7 @@ For a YouTube video, no embedding code is required, it all works through the vid
 ---
 layout: post-full
 type: youtube
-yt-video-id: E802ZnXbnFY
+yt-video-id: d6I0BC7OM68
 homedisplay: iframe
 ---
 ```
