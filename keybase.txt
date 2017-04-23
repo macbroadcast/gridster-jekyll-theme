@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/macbroadcast
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://macbroadcast.org
+  * I am macbroadcast (https://keybase.io/macbroadcast) on keybase.
+  * I have a public key with fingerprint 5782 0069 D7E5 5330 1EDB  7C10 0368 62DE C845 24D9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101608877b93451060f77a26bb58486d93ef2f846bab349fc4cb4e1d09703b0ebec0a",
+            "fingerprint": "57820069d7e553301edb7c10036862dec84524d9",
+            "host": "keybase.io",
+            "key_id": "036862dec84524d9",
+            "kid": "0101608877b93451060f77a26bb58486d93ef2f846bab349fc4cb4e1d09703b0ebec0a",
+            "uid": "bfc8b461f7e9b5639be00be859013319",
+            "username": "macbroadcast"
+        },
+        "revoke": {
+            "sig_ids": [
+                "cab6f58d7da2970f78b984e1f55a27c24b292932083da47252ed7d062bf635050f"
+            ]
+        },
+        "service": {
+            "hostname": "macbroadcast.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1492972849,
+    "expire_in": 157680000,
+    "prev": "0a59b22f6a992518e28ee890899672f49b61b55d08648ed5f2d4cfea2353461b",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMJvAnicrZJbaFRHHMY3MTG6GLygtIJYO0oUjMmcOWdu2xKEgJdqVbyA4GWZOTNn
+c9zsns3ZTWK0QvRBI1WrEYkWRRAJioqI4AXBW7zQhoiYgAhLS33YWtoiWJRqSnFO
+Wp/00XkZZub7f//ffDN3qkfF4mVLy9eU8l2928v6bw23xtb+89LaCmSgOkBiK0jr
+kUk3K50vJNO+AgkALWgRyBilktsOtiCBHqUCESkxcxhR3NYe8phDpJC2wz3XcaWj
+LQU5hbaEWmoXClALPD+b0mEu9LMFY4spQxASrqjG2LahpZWkrgWhTRhBSrvMwchR
+3BQ2BfmowsBJkdd1fmD2zCL5H977+o/M3TpiJz2XSYdYHtVcYmJzqSGUmmEOLdu2
+or6teR1mRUYbdUa4MgyEcoVB31YLQt0WpHWUbd5PGfA8SKwDrpDEw0xRJZDp6VEm
+OTMEHsYCURc5EnHEbQSZrYRDEUbaaCFB0iM2hhh6YIPxNl3bfHfEPErqAwR1QZgy
+fLkwKARu0GxOmwqFXCICK3TkInW7lsn/fZLSzyrzVKagTYd5P8iChGWUbsGPjC3H
+MFHEHF4L9OacH+qkHykwJQyaEbXRbVH+AnOJkEcE5whbTCOmNeOQcU4o8hwuiSUx
+VpARh2mFPaQc19MC2dg2OUsQ3awlG4AEooZTpIynCS8rCq2hBttu31xfESuLx0ZX
+lkd/OBYfO+Hdz64fX/Vv3eLH4zL+7nRD1YNvK+rZgq6JK2b+vqvh/pQLO/jQp3u7
+WfdfX5XODlxfcGbld1uODPae3HGw5Xnn4DkwMDDmbKbxs9PBcGxe2fPvOw80tNTs
+/2Pm53MaXsyvfBnv31f9RcevCztek19+vLbn9LPJn1xpPnai/cmb0tG5r64OPShu
+XzRlb/mBZDp1Y82Vcd+MHwLFymUPL349H51/lDq8cyqdJyccB7cnpUmp6tL5frp6
+Rd+0YkWxNPtcY82qofqa1NzR+1/M6F1+d+nYgeEn5a+W9MWzs0a51T1//nCh7+f4
+xsuZ9p4zVT8V/246eufZSjxjV2djz6PFYybeW/TbpqdLTr7pnt715anBQ/veAqTs
+WUc=
+=sGxp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/macbroadcast
+
+==================================================================
